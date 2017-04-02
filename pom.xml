@@ -21,7 +21,7 @@
   <distributionManagement>
   	<repository>
   		<id>deploymentRepo</id>
-  		<url>http://ec2-35-154-228-139.ap-south-1.compute.amazonaws.com:8081/repository/Maven_test/</url>
+  		<url>http://ec2-35-154-228-139.ap-south-1.compute.amazonaws.com:8081/repository/Maven_hosted_nexus/</url>
   		<name>myprod</name>
          </repository>
 
