@@ -1,3 +1,3 @@
 FROM ubuntu
-MAINTAINER aniketkhedekar21@gmail.com
-COPY target/consumerBanking-1.0-SNAPSHOT.jar /
+MAINTAINER shashi.ujjwal121@gmail.com
+COPY /var/lib/jenkins/workspace/maven_build/target/CounterWebApp.war
